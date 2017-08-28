@@ -9,3 +9,4 @@
 * [Aldeid](https://www.aldeid.com)
 * [Windows binary tools](https://github.com/arizvisa/windows-binary-tools)
 * [Forensics Wiki](http://www.forensicswiki.org)
+* [Securityxploded](http://securityxploded.com/)
